@@ -52,6 +52,7 @@ public class questao2 {
 			{
 				System.out.println(n3+"\n"+n2+"\n"+n1);
 			}
+			sc.close();
 		}
 	}
 }

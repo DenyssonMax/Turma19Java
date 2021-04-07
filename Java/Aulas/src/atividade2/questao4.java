@@ -31,6 +31,7 @@ public class questao4 {
 			System.out.println(" Seu número é IMPAR e o valor dele ao quadrado é: "+ Math.pow(n1, 2));
 		}
 
+		sc.close();
 		}
 				
 	}
